@@ -10,7 +10,7 @@ Data obtained from [ergast](http://ergast.com/mrd/). Code in R.
   
   &nbsp;&nbsp;&nbsp;&nbsp; * [track concordance charts](https://blog.ouseful.info/2017/05/01/track-concordance-charts/)
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * on [kaggle](https://www.kaggle.com/cjgdev/formula-1-race-data-19502017)
+  * &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * on [kaggle](https://www.kaggle.com/cjgdev/formula-1-race-data-19502017)
 
 * example [bar chart race](https://github.com/stevejburr/Bar-Chart-Race/blob/master/Final.R)
 * R, [tidy data](https://www.jstatsoft.org/article/view/v059i10)
