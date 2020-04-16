@@ -6,9 +6,9 @@ Data obtained from [ergast](http://ergast.com/mrd/). Code in R.
 * f1 data, [fia](https://www.fia.com/events/fia-formula-one-world-championship/season-2019/eventtiming-information-1)
 * f1 data analysis
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * [f1 data junkie](http://www.f1datajunkie.com/)
+  &nbsp;&nbsp;&nbsp;&nbsp; * [f1 data junkie](http://www.f1datajunkie.com/)
   
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * [track concordance charts](https://blog.ouseful.info/2017/05/01/track-concordance-charts/)
+  &nbsp;&nbsp;&nbsp;&nbsp; * [track concordance charts](https://blog.ouseful.info/2017/05/01/track-concordance-charts/)
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; * on [kaggle](https://www.kaggle.com/cjgdev/formula-1-race-data-19502017)
 
